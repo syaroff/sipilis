@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200;300;400;500;600;700&display=swap');
+
+* {
+    padding: 0;
+    margin: 0;
+    font-family: "Poppins";
+}
+
+:root {
+  --ungu : #8b11bb;
+}
+
+.btn-ungu {
+  background: var(--ungu) !important;
+  box-shadow: none !important;
+  border: none !important;
+}
